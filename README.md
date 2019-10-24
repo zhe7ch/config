@@ -1,1 +1,1 @@
-# config
+# personal config files for freeBSD
