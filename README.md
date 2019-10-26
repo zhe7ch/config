@@ -12,7 +12,7 @@ Update system and etc.:
     
 Install packages:
 
-    pkg install zsh vim git xorg nerd-fonts
+    pkg install zsh vim git xorg nerd-fonts firefox
     
 Set zsh to default:
     
