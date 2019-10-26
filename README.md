@@ -13,3 +13,6 @@ Update system and etc.:
 Install packages:
 
     pkg install zsh vim xorg nerd-fonts
+Set zsh to default:
+    
+    chsh -s $(which zsh)
