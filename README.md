@@ -1,6 +1,6 @@
 # personal config files for freeBSD
 
-    pkg update
     freebsd-update fetch install
+    pkg update
     portsnap fetch extract
     
