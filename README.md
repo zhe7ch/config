@@ -4,10 +4,12 @@ Change "quaterly" to "latest" in line 11:
 
     vi /etc/pkg/FreeBSD.conf
 
+Update system and etc.:
 
     freebsd-update fetch install
     portsnap fetch extract
     pkg update
     
-    
+Install packages:
+
     pkg install zsh vim xorg nerd-fonts
