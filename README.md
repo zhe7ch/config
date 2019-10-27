@@ -24,7 +24,7 @@ Set zsh to default:
 
 
 
-Firefox settings:
+Firefox settings (if srcolling not smooth):
 
     in: about:config
   
