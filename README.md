@@ -14,6 +14,8 @@ Install packages:
 
     pkg install zsh vim git xorg nerd-fonts firefox
     
+    git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
+    
 Set zsh to default:
     
     chsh -s $(which zsh)
