@@ -19,3 +19,11 @@ Install packages:
 Set zsh to default:
     
     chsh -s $(which zsh)
+
+
+
+
+
+Firefox settings:
+  in: about:config
+  set: layers.acceleration.force-enabled true
