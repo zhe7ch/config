@@ -26,6 +26,6 @@ Set zsh to default:
 
 Firefox settings:
 
-  in: about:config
+    in: about:config
   
-  set: layers.acceleration.force-enabled true
+    set: layers.acceleration.force-enabled true
