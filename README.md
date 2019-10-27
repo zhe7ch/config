@@ -19,3 +19,13 @@ Install packages:
 Set zsh to default:
     
     chsh -s $(which zsh)
+
+
+
+
+
+Firefox settings (if srcolling not smooth):
+
+    in: about:config
+  
+    set: layers.acceleration.force-enabled true
