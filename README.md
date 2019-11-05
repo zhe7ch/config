@@ -2,7 +2,8 @@
 
 Change "quaterly" to "latest" in line 11:
 
-    vi /etc/pkg/FreeBSD.conf
+    cp /etc/pkg/FreeBSD.conf /usr/local/etc/pkg/repos/FreeBSD.conf
+    vi /usr/local/etc/pkg/repos/FreeBSD.conf
 
 Update system and etc.:
 
