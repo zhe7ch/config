@@ -12,7 +12,7 @@ Update system and etc.:
     
 Install packages:
 
-    pkg install drm-fbsd12.0-kmod zsh vim git xorg nerd-fonts firefox
+    pkg install drm-kmod zsh vim git xorg nerd-fonts firefox
     
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
     
