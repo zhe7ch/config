@@ -1,7 +1,7 @@
 # personal config files for freeBSD
 
 Change "quaterly" to "latest" in line 11:
-
+    mkdir -p /usr/local/etc/pkg/repos
     cp /etc/pkg/FreeBSD.conf /usr/local/etc/pkg/repos/FreeBSD.conf
     vi /usr/local/etc/pkg/repos/FreeBSD.conf
 
