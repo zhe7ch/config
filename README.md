@@ -29,6 +29,10 @@ xorg dpi setting:
 - add in ~/.xinitrc
 
         xrdb -merge ~/.Xresources
+TTF font files destination:
+
+    /usr/local/share/fonts/TTF
+
 
 Firefox settings (if srcolling not smooth):
 
