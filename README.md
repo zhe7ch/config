@@ -23,7 +23,7 @@ Set zsh to default:
     chsh -s $(which zsh)
 
 xorg dpi setting:
-- in .Xresources:
+- in ~/.Xresources:
     
         Xft.dpi: 192
 
