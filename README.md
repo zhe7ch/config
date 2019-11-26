@@ -26,10 +26,9 @@ xorg dpi setting:
 - in ~/.Xresources:
     
         Xft.dpi: 192
+- add in ~/.xinitrc
 
-    
-
-
+        xrdb -merge ~/.Xresources
 
 Firefox settings (if srcolling not smooth):
 
