@@ -25,7 +25,7 @@ Set zsh to default:
 xorg dpi setting:
 - in .Xresources:
     
-    Xft.dpi: 192
+        Xft.dpi: 192
 
     
 
