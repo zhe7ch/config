@@ -14,13 +14,17 @@ Update system and etc.:
     
 Install packages:
 
-    pkg install sudo zsh vim git xorg firefox
+    pkg install sudo zsh vim git xorg nvidia-driver firefox
     
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
     
 Set zsh to default:
     
     chsh -s $(which zsh)
+
+For Nvidia: 
+
+    echo 'nvidia-modeset_load="YES"' >> /boot/loader.conf
 
 xorg dpi setting:
 - in ~/.Xresources:
