@@ -14,7 +14,7 @@ Update system and etc.:
     
 Install packages:
 
-    pkg install sudo zsh vim git xorg nvidia-driver firefox
+    pkg install sudo zsh vim git xorg nvidia-driver firefox nerd-fonts
     
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
     
