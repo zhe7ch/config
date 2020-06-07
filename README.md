@@ -1,4 +1,4 @@
-# personal config files for freeBSD
+# config files for freeBSD
 
 Change "quaterly" to "latest" in line 11:
 
