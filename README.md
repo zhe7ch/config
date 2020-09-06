@@ -27,6 +27,9 @@ locale settings:
     me:\
         :charset=UTF-8:\
         :lang=en_US.UTF-8:
+        
+fix cursor size:
+    move icons/default/ folder to /usr/local/share/icons/
     
 Config softwares:
     
