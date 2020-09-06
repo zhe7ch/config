@@ -20,6 +20,13 @@ For Nvidia:
 
     echo 'nvidia-modeset_load="YES"' >> /boot/loader.conf 
     
+locale settings: 
+    
+    ~/.login_conf
+    me:\
+        :charset=UTF-8:\
+        :lang=en_US.UTF-8:
+    
 Config softwares:
     
     git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim 
