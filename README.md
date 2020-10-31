@@ -14,7 +14,7 @@ Update system and etc.:
     
 Install packages:
 
-    pkg install sudo zsh vim git xorg nvidia-driver firefox nerd-fonts
+    pkg install sudo zsh vim git xorg nvidia-driver firefox noto nerd-fonts feh alacritty
     
 For Nvidia: 
 
